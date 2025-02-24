@@ -48,6 +48,8 @@ This project is a gas utility management system designed to help users manage an
     python manage.py runserver
     ```
 
+Open your browser and go to `http://localhost:8000` or `http://127.0.0.1:8000/` to access the application.
+
 ### User Interface
 
 - **Register**: Create a new account by filling out the registration form.

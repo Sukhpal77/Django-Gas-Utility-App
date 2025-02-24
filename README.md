@@ -26,8 +26,7 @@ This project is a gas utility management system designed to help users manage an
 3. Create a virtual environment and activate it:
     ```bash
     python -m venv venv
-    source venv/bin/activate  # On Windows,
-    use `venv\Scripts\activate`
+    venv\Scripts\activate
     ```
 4. Install the Python dependencies:
     ```bash

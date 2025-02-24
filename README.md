@@ -71,22 +71,28 @@ gas_utility/
 │   ├── settings.py
 │   ├── urls.py
 │   ├── wsgi.py
-│   ├── services/
-│   │   ├── __init__.py
-│   │   ├── admin.py
-│   │   ├── apps.py
-│   │   ├── forms.py
-│   │   ├── models.py
-│   │   ├── templates/
-│   │   │   ├── base.html
-│   │   │   ├── registration/
-│   │   │   │   ├── login.html
-│   │   │   │   ├── register.html
-│   │   │   ├── services/
-│   │   │   │   ├── home.html
-│   │   ├── urls.py
-│   │   ├── views.py
-│   ├── db.sqlite3
+├── services/
+│   ├── __init__.py
+│   ├── admin.py
+│   ├── apps.py
+│   ├── forms.py
+│   ├── models.py
+│   ├── templates/
+│   │   ├── base.html
+│   │   ├── registration/
+│   │   │   ├── login.html
+│   │   │   ├── logged_out.html
+│   │   │   ├── register.html
+│   │   │   ├── password_reset_complete.html
+│   │   │   ├── password_reset_confirm.html
+│   │   │   ├── password_reset_done.html
+│   │   │   ├── password_reset_email.html
+│   │   │   ├── password_reset_form.html
+│   │   ├── services/
+│   │   │   ├── home.html
+│   ├── urls.py
+│   ├── views.py
+├── db.sqlite3
 ├── manage.py
 ```
 

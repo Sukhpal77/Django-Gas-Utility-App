@@ -1,6 +1,6 @@
-# Gas Utility
+# Django-Gas-Utility-App
 
-This project is a gas utility management system designed to help users manage and monitor their gas usage efficiently.
+This is a Django-based web application for managing gas utility service requests. Users can register, log in, and submit service requests. The application provides an overview of the status of service requests and allows users to track their progress.
 
 ## Features
 
@@ -8,9 +8,6 @@ This project is a gas utility management system designed to help users manage an
 - Submit and manage service requests
 - Track the status of service requests
 - Admin interface for managing service requests
-- Real-time gas usage monitoring
-- Monthly usage reports
-- Alerts for unusual usage patterns
 - User-friendly interface
 
 ## Installation
